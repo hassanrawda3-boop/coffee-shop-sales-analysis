@@ -17,7 +17,7 @@ This project focuses on analyzing sales transactions for a retail coffee shop. B
 *(Optional: Description of your Excel/PowerBI Dashboard)*
 Below is the visual representation of the key performance indicators (KPIs) and sales trends.
 
-dashboard.png.png
+![Coffee Shop Dashboard](visuals/dashboard.png)
 
 ## 🛠️ Tech Stack & Skills
 - **Excel:** Advanced Pivot Tables, Data Cleaning, and Dashboard Design.
